@@ -1,0 +1,31 @@
+# detect model
+detect_model_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_detect/bodai_20210201_model-epoch_98_step_201761_loss_1.0167_lr_4.6042e-05'
+detect_class_num_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_detect/bodai_num_class.txt'
+detect_input_size: [416, 416]
+detect_anchor_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_detect/bodai_anchors.txt'
+detect_th: 0.8
+detect_iou_th: 0.2
+
+
+# classfy model
+# old
+classfy_model_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_classify/60/model.pth'
+#classfy_model_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_classify/update20210419_240/60/model.pth'
+# old
+classfy_class_num_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_classify/bodai_class_num_142.txt'
+#classfy_class_num_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_classify/update20210419_240/bodai_class_num_240_20200419.txt'
+classfy_input_size: [3, 320, 320]
+classfy_th: 0.85
+
+# classfy_cb model
+classfy_cb_model_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_cb_classify/model.pth'
+classfy_cb_class_num_path: '/home/liusheng/deepLearningProjects/trained_weights/bodai_cb_classify/clear_blurry_class_num_0108.txt'
+classfy_cb_input_size: [3, 128, 128]
+classfy_cb_th: 0.8
+
+# read url and write url
+#img_url: '/home/liusheng/data/NFS120/cow/vedio/16-202103/2-1-2021-03-17/Native Video Files (MP4)/images'
+#save_url: '/home/liusheng/data/NFS120/cow/vedio/16-202103/2-1-2021-03-17/select_upload_data'
+
+img_url: '/home/liusheng/data/NFS120/cow/vedio/15组2021.5/DVR_Examiner_Export_2021-05-18 142552_Job_0002/2021-05-10/Native Video Files (MP4)/images'
+save_url: '/home/liusheng/data/NFS120/cow/vedio/15组2021.5/DVR_Examiner_Export_2021-05-18 142552_Job_0002/2021-05-10/select_upload_data_ts'

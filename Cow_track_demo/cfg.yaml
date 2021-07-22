@@ -1,0 +1,26 @@
+# configure
+register_input_shape: [3, 192, 192]
+register_model_path: "./trained_weight/XzMask125Sameway_resnetface20_rot180HorVer_192_finetune_acc787.pth"
+register_threshold: 0.4
+
+# detection
+detection_model_path: "./trained_weight/COW_20210120_model-epoch_99_step_69199_loss_45.1756_lr_4.6042e-05"
+num_class: 1
+input_size: [416, 416]
+threshold: 0.3
+anchors: "./trained_weight/cow_anchors.txt"
+iou_threshold: 0.25
+
+# deep sort
+track_model_path: './model_data/mars-small128.pb'
+#video_path: "./video/CH01_2021-05-12_001342_2021-05-12_010216_ID1019X1.mp4"
+#video_path: "./video/CH16_2021-05-10_180928_2021-05-10_183907_ID0135X1.mp4"
+video_path: "./video/CH16_2021-05-10_180928_2021-05-10_183907_ID0135X1_new.mp4"
+
+#registered_cow_dataset: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125_sameWay/ref10/feature.pkl'
+registered_cow_dataset: '/home/liusheng/data/NFS120/cow/vedio/15组2021.5/DVR_Examiner_Export_2021-05-18 142552_Job_0002/2021-05-12/Native Video Files (MP4)/ref10_name/feature.pkl'
+
+# segment
+segment_model_path: './trained_weight/u2net_bce_itr_291500_train_0.109425_tar_0.007453_body20210420_size320.pth'
+
+

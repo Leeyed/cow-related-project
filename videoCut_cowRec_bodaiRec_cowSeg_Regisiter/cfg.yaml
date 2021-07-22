@@ -1,0 +1,26 @@
+# body detect model
+body_detect_input_size: [416, 416] # "Resize the input image with `new_size`, size format: [width, height]"
+body_detect_class_path: '/home/liusheng/deepLearningProjects/trained_weights/body_detect/bcs_classnames_big_class.txt'
+body_detect_anchor_path: '/home/liusheng/deepLearningProjects/trained_weights/body_detect/cow_anchors.txt'
+body_detect_model_path: '/home/liusheng/deepLearningProjects/trained_weights/body_detect/COW_20210120_model-epoch_99_step_69199_loss_45.1756_lr_4.6042e-05'
+body_detect_th: 0.8
+body_detect_iou_th: 0.1
+#body_detect_score_th: 0.95
+
+# u2net
+seg_model_path: 'trained_weights/u2net_bce_itr_291500_train_0.109425_tar_0.007453_body20210420_size320.pth'
+
+# register
+input_shape: [3, 192, 192]
+# backbone options: resnetface20, se_resnet50, efficientnet-b?
+backbone: 'resnetface20'
+# acc 787
+register_model_path: './trained_weights/XzMask125Sameway_resnetface20_rot180HorVer_192_finetune_acc787.pth'
+
+# video path
+#video_path: '/home/liusheng/data/NFS120/cow/vedio/15组2021.5/DVR_Examiner_Export_2021-05-18 142552_Job_0002/2021-05-12/Native Video Files (MP4)'
+video_path: '/home/liusheng/data/NFS120/cow/vedio/17-202106/DVR_Examiner_Export_2021-06-10 110439_Job_0002/2021-06-01/Native Video Files (MP4)'
+
+save_mask125_dir: 134
+
+

@@ -1,0 +1,30 @@
+# detect model
+detect_model_path: '/home/liusheng/cowAll/trained/detect/bodai_20210201_model-epoch_98_step_201761_loss_1.0167_lr_4.6042e-05'
+detect_class_num_path: '/home/liusheng/cowAll/trained/detect/bodai_num_class.txt'
+detect_input_size: [416, 416]
+detect_anchor_path: '/home/liusheng/cowAll/trained/detect/bodai_anchors.txt'
+detect_th: 0.7
+detect_iou_th: 0.2
+
+
+# classfy model
+classfy_model_path: '/home/liusheng/YOLOv3_tensorflow_from_zzb/trained/classify/60/model.pth'
+classfy_class_num_path: '/home/liusheng/YOLOv3_tensorflow_from_zzb/trained/classify/bodai_class_num_190_20200303.txt'
+classfy_input_size: [3, 320, 320]
+classfy_th: 0.85
+
+# classfy_cb model
+classfy_cb_model_path: '/home/liusheng/cowAll/trained/classify_cb/model.pth'
+classfy_cb_class_num_path: '/home/liusheng/cowAll/trained/classify_cb/clear_blurry_class_num_0108.txt'
+classfy_cb_input_size: [3, 128, 128]
+classfy_cb_th: 0.8
+
+
+# multil classfy model
+multilclassfy_model_path: ''
+multilclassfy_class_num_path: ''
+multilclassfy_input_size: [3, 320, 320]
+multilclassfy_th: 0.5
+
+# test pic
+test_pic: 'test.jpg'

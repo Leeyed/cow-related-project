@@ -1,0 +1,736 @@
+241 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0022.jpg 364 512 0 217 338 335 351
+258 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0039.jpg 361 512 0 130 53 248 67
+581 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0176.jpg 512 374 0 142 189 349 199
+418 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0199.jpg 361 512 0 34 217 48 335
+326 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0107.jpg 361 512 0 170 48 288 62
+746 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0013.jpg 384 512 0 132 299 236 378
+240 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0021.jpg 361 512 0 224 321 341 334
+31 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0035.jpg 512 384 0 52 50 352 288
+266 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0047.jpg 361 512 0 217 84 335 98
+536 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0123.jpg 384 512 0 126 416 293 464
+668 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0267.tiff 358 512 0 27 211 165 229 0 289 209 311 232
+594 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0190.jpg 384 512 0 195 366 284 384
+228 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0009.jpg 361 512 0 142 264 260 277
+712 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0311.jpg 384 512 0 34 136 51 210 0 100 247 122 269 0 34 391 51 465
+399 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0180.jpg 361 512 0 60 236 74 353
+826 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0005.tiff 351 512 0 146 447 205 467
+93 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0099.jpg 512 384 0 163 70 252 323
+421 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0002.tif 512 231 0 22 189 57 224
+558 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0145.jpg 384 512 0 28 283 61 338
+799 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0076.jpg 384 512 0 90 287 237 350
+492 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0077.jpg 512 384 0 42 175 123 189
+610 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0207.jpg 512 341 0 44 20 101 129 0 48 201 103 313
+409 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0190.jpg 361 512 0 303 63 316 181
+913 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0093.tiff 289 512 0 225 431 289 476
+497 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0082.jpg 512 288 0 331 68 366 164
+869 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0048.tiff 381 512 0 173 440 232 463
+794 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0070.jpg 384 512 0 110 314 247 360
+100 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0016.jpg 512 288 0 165 109 266 167 0 351 113 391 151
+774 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0049.jpg 512 384 0 260 119 335 282
+302 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0083.jpg 361 512 0 304 269 318 386
+687 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0286.tiff 358 512 0 261 47 332 70
+836 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0015.tiff 299 512 0 45 402 109 448
+733 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0333.jpg 512 384 0 118 79 141 286 0 158 79 179 270 0 77 80 101 302
+391 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0172.jpg 359 512 0 312 143 325 260
+36 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0040.jpg 384 512 0 90 216 251 422
+352 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0133.jpg 361 512 0 101 164 218 177
+525 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0111.jpg 512 269 0 5 206 158 255
+401 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0182.jpg 361 512 0 308 327 321 444
+620 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0217.jpg 512 384 0 407 142 470 165 0 456 19 498 59
+780 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0055.jpg 384 512 0 61 228 325 340
+286 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0067.jpg 361 512 0 310 251 323 368
+612 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0209.jpg 384 512 0 43 433 315 512 0 22 218 271 284 0 22 205 247 217
+349 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0130.jpg 361 512 0 113 58 230 72
+691 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0290.tiff 358 512 0 187 308 312 345 0 194 362 336 416
+105 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0025.jpg 288 512 0 151 234 187 320 0 156 170 180 194
+375 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0156.jpg 361 512 0 172 104 185 222
+400 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0181.jpg 361 512 0 300 79 314 197
+0 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0001.jpg 384 512 0 54 177 259 331
+238 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0019.jpg 361 512 0 204 200 321 213
+330 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0111.jpg 361 512 0 124 48 242 61
+420 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0001.jpg 512 384 0 398 125 415 344 0 429 124 459 346 0 238 250 274 330 0 354 227 381 343 0 347 81 397 129 0 241 94 271 174
+305 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0086.jpg 361 512 0 188 35 202 152
+323 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0104.jpg 361 512 0 101 48 218 61
+835 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0014.tiff 320 512 0 140 420 190 436
+527 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0113.jpg 512 288 0 49 107 75 195 0 224 189 314 221
+353 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0134.jpg 361 512 0 52 47 169 61
+363 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0144.jpg 361 512 0 83 113 201 127
+771 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0046.jpg 512 384 0 324 146 409 297
+188 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0059.jpg 512 288 0 172 99 245 173
+25 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0029.jpg 512 384 0 137 43 315 306
+325 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0106.jpg 361 512 0 60 35 178 48
+58 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0062.jpg 512 384 0 228 58 335 286
+370 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0151.jpg 359 512 0 305 160 319 277
+411 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0192.jpg 359 512 0 43 181 57 299
+762 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0033.jpg 512 384 0 222 95 314 292
+299 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0080.jpg 361 512 0 26 108 40 226
+648 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0247.tiff 358 512 0 310 191 325 206 0 6 488 25 508
+862 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0041.tiff 318 512 0 244 29 306 55
+41 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0045.jpg 384 512 0 46 218 274 365
+3 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0004.jpg 384 512 0 68 277 241 488
+761 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0032.jpg 512 384 0 191 54 289 251
+336 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0117.jpg 361 512 0 104 49 222 62
+887 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0066.tiff 375 512 0 41 467 100 493 0 116 483 183 496
+92 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0098.jpg 384 512 0 49 0 329 381
+199 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0070.jpg 512 288 0 186 108 260 184
+463 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0048.tiff 512 389 0 25 208 132 213 0 198 215 322 221
+283 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0064.jpg 361 512 0 308 281 321 399
+831 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0010.tiff 321 512 0 214 356 279 398
+452 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0037.jpg 348 512 0 51 238 302 249
+512 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0098.jpg 512 384 0 46 176 72 264
+499 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0084.jpg 512 288 0 308 104 358 178
+698 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0297.tiff 358 512 0 7 113 32 138
+307 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0088.jpg 361 512 0 35 236 49 353
+5 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0006.jpg 384 512 0 91 205 262 330
+879 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0058.tiff 341 512 0 34 62 46 95 0 32 108 48 125
+576 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0171.jpg 384 512 0 215 45 347 56 0 292 65 304 77
+537 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0124.jpg 512 384 0 295 117 335 157
+135 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0004.jpg 512 288 0 396 204 450 256
+519 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0105.jpg 512 384 0 447 134 500 228
+626 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0223.jpg 512 384 0 12 27 29 159 0 131 25 149 158 0 160 300 199 341 0 45 296 83 336 0 45 19 70 45 0 182 16 207 41
+324 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0105.jpg 361 512 0 53 49 171 62
+68 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0073.jpg 384 512 0 64 175 176 351
+604 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0200.jpg 384 512 0 319 211 374 263
+441 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0025.tif 365 512 0 37 457 53 474
+142 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0011.jpg 512 288 0 42 79 140 174
+419 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0200.jpg 361 512 0 320 326 334 444
+166 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0037.jpg 512 288 0 385 57 452 126
+731 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0331.jpg 512 179 0 39 80 402 106 0 40 22 256 49
+910 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0090.tiff 326 512 0 49 19 126 48
+514 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0100.jpg 512 384 0 64 124 133 255
+510 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0096.jpg 512 384 0 448 123 498 212
+74 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0079.jpg 384 512 0 40 240 271 416
+860 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0039.tiff 332 512 0 213 338 303 360 0 75 431 161 456 0 190 430 276 455
+120 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0041.jpg 288 512 0 137 318 170 352 0 136 162 186 250
+15 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0018.jpg 512 384 0 266 85 351 279
+371 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0152.jpg 361 512 0 287 213 300 331
+225 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0006.jpg 361 512 0 220 279 338 292
+423 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0005.tif 361 512 0 11 47 22 59
+870 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0049.tiff 317 512 0 218 422 283 444
+360 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0141.jpg 361 512 0 155 48 272 61
+24 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0028.jpg 384 512 0 98 85 292 212
+900 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0079.tiff 338 512 0 40 454 100 472
+690 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0289.tiff 358 512 0 225 440 292 461 0 258 173 307 223
+329 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0110.jpg 361 512 0 45 49 162 62
+426 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0008.tif 512 365 0 278 68 336 101 0 372 119 476 149 0 462 23 486 47
+80 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0085.jpg 512 384 0 116 75 394 258
+211 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0082.jpg 512 288 0 254 105 325 178
+674 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0273.tiff 358 512 0 203 271 290 296 0 198 331 299 370
+578 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0173.jpg 384 512 0 196 379 292 397
+751 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0019.jpg 384 512 0 78 209 339 373
+769 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0044.jpg 512 384 0 248 136 330 304
+402 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0183.jpg 361 512 0 42 256 55 373
+2 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0003.jpg 512 384 0 108 85 311 248
+50 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0054.jpg 384 512 0 78 161 282 313
+181 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0052.jpg 512 288 0 344 139 400 179
+607 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0204.jpg 512 384 0 403 35 443 368
+792 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0068.jpg 384 512 0 38 288 301 390
+659 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0258.tiff 358 512 0 20 476 39 496
+87 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0093.jpg 384 512 0 113 234 319 284
+139 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0008.jpg 512 288 0 234 145 332 246
+728 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0327.jpg 288 512 0 28 242 251 305 0 14 341 189 422
+55 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0059.jpg 384 512 0 50 166 241 419
+7 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0008.jpg 384 512 0 95 235 203 395
+920 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0100.tiff 311 512 0 223 432 283 456
+846 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0025.tiff 328 512 0 220 441 277 460
+111 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0032.jpg 512 288 0 312 121 343 153 0 149 119 260 167
+218 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0089.jpg 512 288 0 220 56 259 93
+147 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0016.jpg 512 288 0 143 6 191 55
+724 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0323.jpg 512 288 0 347 71 388 221
+44 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0048.jpg 384 512 0 66 250 293 406
+755 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0023.jpg 512 384 0 134 108 272 300
+608 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0205.jpg 512 512 0 92 178 206 214 0 89 390 207 426
+280 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0061.jpg 361 512 0 281 245 294 362
+216 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0087.jpg 512 288 0 348 110 420 180
+322 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0103.jpg 361 512 0 89 60 207 74
+175 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0046.jpg 512 288 0 390 191 433 234
+729 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0329.jpg 512 384 0 124 146 152 348 0 340 258 364 352 0 231 311 252 350 0 178 149 206 349
+291 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0072.jpg 361 512 0 33 197 47 314
+725 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0324.jpg 512 288 0 81 111 150 178
+816 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0094.jpg 384 512 0 151 351 302 439
+483 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0068.jpg 512 226 0 104 165 254 173
+27 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0031.jpg 512 384 0 100 73 323 163
+640 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0239.jpg 512 384 0 316 41 346 177 0 440 43 471 177 0 319 228 350 365 0 444 227 474 362
+824 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0003.tiff 512 352 0 64 124 89 184
+342 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0123.jpg 361 512 0 215 125 332 139
+516 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0102.jpg 512 384 0 35 59 123 180
+310 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0091.jpg 361 512 0 309 102 322 220
+908 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0088.tiff 300 512 0 221 440 281 462
+167 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0038.jpg 512 288 0 345 30 430 114
+475 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0060.jpg 512 423 0 81 311 312 330 0 97 28 302 106 0 99 163 304 243 0 320 352 461 376
+631 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0228.jpg 512 384 0 27 87 66 182 0 29 206 72 308
+834 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0013.tiff 316 512 0 67 355 131 398
+348 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0129.jpg 361 512 0 53 53 171 67
+618 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0215.jpg 512 384 0 304 105 413 125
+875 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0054.tiff 367 512 0 65 411 111 426
+72 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0077.jpg 384 512 0 132 155 245 381
+782 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0057.jpg 384 512 0 55 217 328 327
+437 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0021.jpg 512 441 0 59 357 428 375
+843 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0022.tiff 316 512 0 46 419 116 452 0 228 425 262 459
+553 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0140.jpg 512 380 0 304 118 331 228
+117 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0038.jpg 512 288 0 332 117 369 151 0 161 106 256 159
+621 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0218.jpg 512 384 0 237 21 280 32 0 19 137 49 164
+541 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0128.jpg 384 512 0 34 436 57 459
+373 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0154.jpg 361 512 0 52 274 65 391
+474 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0059.jpg 384 512 0 217 325 310 352 0 223 389 329 430
+292 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0073.jpg 361 512 0 37 167 51 285
+222 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0003.jpg 361 512 0 224 346 341 359
+847 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0026.tiff 373 512 0 169 434 220 458
+20 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0024.jpg 384 512 0 122 255 253 481
+721 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0320.jpg 288 512 0 41 241 228 252
+485 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0070.jpeg 512 224 0 18 72 72 159
+143 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0012.jpg 288 512 0 41 187 127 271
+263 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0044.jpg 361 512 0 224 268 342 282
+115 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0036.jpg 512 288 0 245 117 328 157 0 189 118 214 143
+186 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0057.jpg 512 288 0 158 84 257 186
+18 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0021.jpg 384 512 0 75 242 319 344
+539 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0126.jpg 384 512 0 306 444 325 463
+479 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0064.jpg 288 512 0 18 259 243 322
+270 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0051.jpg 361 512 0 278 228 291 346
+601 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0197.jpg 384 512 0 325 282 371 325
+76 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0081.jpg 384 512 0 56 191 233 416
+268 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0049.jpg 361 512 0 220 76 337 89
+416 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0197.jpg 361 512 0 41 306 55 423
+21 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0025.jpg 384 512 0 70 232 349 384
+663 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0262.tiff 358 512 0 298 454 318 473
+551 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0138.jpg 512 384 0 278 106 318 144
+51 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0055.jpg 384 512 0 139 132 221 265
+367 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0148.jpg 361 512 0 214 457 331 471
+837 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0016.tiff 358 512 0 233 441 306 473
+247 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0028.jpg 361 512 0 152 121 270 134
+378 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0159.jpg 361 512 0 58 342 71 460
+786 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0062.jpg 384 512 0 53 238 232 362
+714 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0313.jpg 384 512 0 118 211 265 358
+907 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0087.tiff 318 512 0 136 379 218 418
+236 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0017.jpg 361 512 0 138 246 255 260
+19 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0022.jpg 512 384 0 131 77 319 233
+447 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0031.jpg 350 512 0 49 219 295 231
+201 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0072.jpg 512 288 0 145 116 209 178
+840 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0019.tiff 386 512 0 51 150 73 211
+138 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0007.jpg 288 512 0 71 193 193 319
+328 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0109.jpg 361 512 0 122 49 239 63
+765 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0038.jpg 512 384 0 271 144 349 294
+355 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0136.jpg 361 512 0 136 66 253 79
+45 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0049.jpg 384 512 0 78 250 266 334
+644 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0243.tif 487 512 0 449 35 469 220 0 448 295 469 479
+571 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0164.jpg 384 512 0 306 69 356 119
+766 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0041.jpg 512 384 0 311 52 370 247
+112 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0033.jpg 512 288 0 235 110 326 148 0 167 116 192 140
+189 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0060.jpg 512 288 0 129 97 219 189
+790 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0066.jpg 384 512 0 104 323 248 376
+852 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0031.tiff 328 512 0 33 438 102 464
+478 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0063.jpg 512 225 0 279 198 431 208
+52 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0056.jpg 384 512 0 130 173 252 353
+57 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0061.jpg 512 384 0 164 83 511 315
+703 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0302.tiff 358 512 0 9 463 33 487
+609 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0206.jpg 512 384 0 342 130 486 198 0 82 236 296 329
+653 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0252.tiff 358 512 0 212 166 289 182 0 319 247 338 330 0 320 394 338 463
+372 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0153.jpg 363 512 0 197 56 210 173
+267 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0048.jpg 361 512 0 151 391 269 404
+768 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0043.jpg 512 384 0 272 143 330 300
+260 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0041.jpg 361 512 0 208 141 325 154
+636 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0234.jpg 512 382 0 338 132 463 179 0 111 338 221 367 0 227 262 281 290 0 29 256 187 288 0 339 10 477 58
+630 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0227.jpg 512 384 0 339 74 468 100
+467 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0052.tif 512 360 0 377 241 498 270 0 377 64 499 92
+254 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0035.jpg 361 512 0 180 399 298 413
+605 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0201.jpg 512 384 0 306 272 435 283
+914 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0094.tiff 333 512 0 68 433 118 469 0 59 39 147 64
+723 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0322.jpg 512 288 0 221 51 233 245
+157 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0028.jpg 512 288 0 171 118 254 195
+641 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0240.tif 512 406 0 28 3 67 19 0 70 8 80 17
+29 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0033.jpg 384 512 0 63 200 224 414
+681 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0280.tiff 358 512 0 224 303 337 326 0 248 371 338 394
+207 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0078.jpg 512 288 0 123 114 186 177
+239 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0020.jpg 361 512 0 60 44 177 57
+787 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0063.jpg 384 512 0 99 252 269 309
+159 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0030.jpg 288 512 0 25 66 97 139
+259 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0040.jpg 361 512 0 84 125 202 139
+309 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0090.jpg 361 512 0 30 117 44 234
+101 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0018.jpg 512 288 0 183 118 298 171 0 345 137 381 170
+572 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0165.jpg 512 384 0 8 148 61 237
+30 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0034.jpg 512 384 0 37 79 270 265
+410 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0191.jpg 361 512 0 52 236 66 353
+417 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0198.jpg 361 512 0 314 291 327 408
+229 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0010.jpg 361 512 0 208 126 326 140
+264 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0045.jpg 361 512 0 50 368 168 381
+153 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0024.jpg 512 288 0 372 138 453 213
+764 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0037.jpg 512 384 0 336 104 397 223
+719 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0318.jpg 512 288 0 234 133 378 141
+227 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0008.jpg 361 512 0 193 159 310 172
+269 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0050.jpg 361 512 0 134 444 252 457
+215 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0086.jpg 512 288 0 120 111 185 176
+84 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0090.jpg 512 384 0 87 75 298 170
+231 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0012.jpg 361 512 0 207 168 324 181
+829 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0008.tiff 342 512 0 34 418 103 469
+680 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0279.tiff 358 512 0 88 138 214 149 0 89 307 215 317 0 91 469 217 479
+174 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0045.jpg 512 288 0 345 190 394 238
+683 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0282.tiff 358 512 0 224 302 337 325 0 247 370 338 393
+35 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0039.jpg 512 384 0 76 64 284 210
+885 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0064.tiff 378 512 0 45 468 104 495 0 57 430 124 442 0 112 463 150 501
+672 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0271.tiff 358 512 0 176 98 217 130 0 176 135 217 168 0 176 172 217 203 0 175 208 216 240 0 175 245 216 276 0 175 281 216 312 0 175 318 216 349
+803 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0080.jpg 384 512 0 39 323 226 387
+546 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0133.jpg 512 384 0 187 172 329 252 0 151 284 366 327
+896 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0075.tiff 356 512 0 40 448 115 476
+563 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0150.jpg 512 410 0 31 110 141 145 0 329 157 373 271
+844 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0023.tiff 370 512 0 47 41 86 96
+917 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0097.tiff 401 512 0 59 109 77 160 0 59 50 84 75
+173 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0044.jpg 512 288 0 376 193 427 241
+75 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0080.jpg 384 512 0 41 206 282 362
+49 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0053.jpg 384 512 0 104 86 315 359
+246 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0027.jpg 361 512 0 64 42 181 56
+531 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0118.jpg 512 384 0 407 85 441 190
+544 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0131.jpg 512 288 0 328 32 386 50 0 138 54 301 94 0 223 118 396 143 0 58 220 366 270
+32 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0036.jpg 512 384 0 149 92 364 268
+210 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0081.jpg 512 288 0 150 114 217 182
+623 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0220.jpg 384 512 0 275 3 352 29 0 35 424 80 472
+722 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0321.jpg 512 288 0 242 32 257 247
+734 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0001.jpg 512 218 0 129 37 363 145
+64 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0068.jpg 512 384 0 146 76 322 211
+699 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0298.tiff 368 512 0 110 54 168 112
+661 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0260.tiff 358 512 0 260 124 310 174 0 260 199 310 249
+469 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0054.tif 401 512 0 135 6 267 46
+445 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0029.jpg 384 512 0 261 164 306 204
+253 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0034.jpg 361 512 0 194 94 311 108
+868 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0047.tiff 351 512 0 140 458 200 477
+26 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0030.jpg 512 384 0 75 90 315 221
+584 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0179.jpg 384 512 0 63 58 101 64 0 41 15 71 27 0 341 455 375 472 0 304 16 333 29 0 285 83 316 94 0 354 129 368 156
+716 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0315.jpg 384 512 0 217 325 311 352 0 223 389 329 430
+916 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0096.tiff 311 512 0 49 437 108 460
+251 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0032.jpg 360 512 0 198 162 316 176
+749 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0016.jpg 512 384 0 184 146 421 314
+740 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0007.jpg 512 285 0 69 63 430 200
+197 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0068.jpg 512 288 0 178 117 255 193
+579 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0174.jpg 384 512 0 320 429 367 475
+905 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0084.tiff 315 512 0 241 442 314 487
+168 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0039.jpg 512 288 0 126 16 174 63
+788 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0064.jpg 384 512 0 102 332 250 387
+476 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0061.jpg 312 512 0 138 47 208 73 0 110 279 131 349
+412 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0193.jpg 361 512 0 118 56 131 174
+67 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0072.jpg 384 512 0 63 175 238 394
+132 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0001.jpg 288 512 0 114 250 175 312
+439 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0023.jpg 343 512 0 58 217 289 230
+901 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0080.tiff 363 512 0 36 428 108 481
+245 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0026.jpg 361 512 0 196 146 314 159
+767 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0042.jpg 512 384 0 324 102 411 250
+627 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0224.jpg 512 384 0 293 30 471 55 0 296 193 484 217 0 48 74 105 126 0 34 238 95 296 0 448 77 485 110 0 462 267 500 303
+158 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0029.jpg 512 288 0 331 165 406 238
+707 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0306.tiff 361 512 0 8 476 32 501
+511 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0097.jpg 512 384 0 51 183 78 273
+155 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0026.jpg 288 512 0 25 385 87 443
+265 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0046.jpg 361 512 0 63 56 181 70
+321 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0102.jpg 361 512 0 42 357 159 371
+345 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0126.jpg 361 512 0 46 48 163 62
+46 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0050.jpg 512 384 0 132 127 305 335
+807 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0084.jpg 384 512 0 120 365 245 408
+450 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0035.jpg 417 512 0 138 210 330 227
+274 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0055.jpg 361 512 0 324 157 337 274
+832 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0011.tiff 309 512 0 215 364 280 407
+747 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0014.jpg 384 512 0 107 115 291 246
+104 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0024.jpg 512 288 0 162 159 280 208 0 328 169 361 201
+660 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0259.tiff 358 512 0 19 479 38 498
+557 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0144.jpg 512 288 0 64 126 111 220
+593 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0189.jpg 512 384 0 44 239 194 290
+242 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0023.jpg 361 512 0 172 457 290 470
+163 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0034.jpg 512 288 0 187 109 247 169
+797 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0074.jpg 384 512 0 99 244 274 308
+912 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0092.tiff 303 512 0 28 448 91 468
+340 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0121.jpg 361 512 0 217 329 335 343
+202 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0073.jpg 512 288 0 158 124 225 192
+224 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0005.jpg 361 512 0 188 158 306 171
+566 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0156.jpg 512 287 0 29 99 67 191
+103 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0022.jpg 512 288 0 141 136 179 174 0 254 129 365 194
+48 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0052.jpg 512 384 0 112 39 312 176
+586 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0182.jpg 384 512 0 264 45 312 92
+726 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0325.jpg 512 288 0 354 78 433 189
+689 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0288.tiff 358 512 0 204 273 292 299 0 213 329 314 367
+665 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0264.tiff 512 198 0 52 62 93 181
+407 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0188.jpg 361 512 0 321 227 335 344
+488 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0073.jpg 512 384 0 19 152 203 268 0 279 186 496 268
+261 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0042.jpg 361 512 0 153 146 271 159
+758 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0026.jpg 512 384 0 256 111 333 275
+503 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0089.jpg 512 384 0 40 176 69 272
+364 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0145.jpg 361 512 0 54 51 172 64
+702 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0301.tiff 358 512 0 6 477 31 504
+904 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0083.tiff 305 512 0 176 407 267 425
+442 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0026.jpg 366 512 0 37 276 307 290
+498 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0083.jpg 512 384 0 52 139 93 268
+285 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0066.jpg 361 512 0 307 108 320 225
+354 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0135.jpg 361 512 0 213 350 331 363
+460 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0045.jpg 512 384 0 16 230 55 266
+744 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0011.jpg 512 384 0 185 157 263 262
+667 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0266.tiff 512 198 0 112 132 224 178
+23 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0027.jpg 512 384 0 155 64 396 248
+39 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0043.jpg 512 384 0 82 163 268 284
+203 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0074.jpg 512 288 0 180 121 237 178
+226 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0007.jpg 361 512 0 213 307 330 320
+736 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0003.jpg 512 472 0 130 279 417 357
+583 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0178.jpg 512 384 0 141 186 179 280
+679 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0278.tiff 358 512 0 224 439 291 460 0 258 172 308 222
+212 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0083.jpg 512 288 0 158 108 235 186
+633 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0230.jpg 512 384 0 33 182 198 213
+85 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0091.jpg 512 384 0 108 70 405 166
+250 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0031.jpg 361 512 0 153 211 271 225
+795 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0071.jpg 384 512 0 51 237 304 417
+818 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0096.jpg 512 384 0 245 127 331 244
+705 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0304.tiff 512 385 0 29 184 57 277
+114 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0035.jpg 512 288 0 140 121 183 152 0 219 116 316 158 0 235 209 313 227
+277 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0058.jpg 361 512 0 281 249 294 367
+200 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0071.jpg 512 288 0 161 119 228 184
+63 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0067.jpg 512 384 0 112 26 259 241
+38 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0042.jpg 512 384 0 68 68 262 203
+745 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0012.jpg 384 512 0 165 178 293 271
+821 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0099.jpg 512 384 0 247 114 369 331
+789 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0065.jpg 384 512 0 99 317 265 412
+666 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0265.tiff 356 512 0 57 32 225 81
+738 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0005.jpg 512 335 0 102 98 405 217
+611 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0208.jpg 384 512 0 119 39 144 155
+785 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0061.jpg 384 512 0 37 256 229 374
+881 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0060.tiff 341 512 0 205 470 271 481 0 22 435 75 473
+198 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0069.jpg 512 288 0 175 125 253 205
+647 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0246.tiff 358 512 0 258 118 303 163
+252 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0033.jpg 361 512 0 149 148 267 162
+882 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0061.tiff 370 512 0 263 458 320 479
+435 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0019.jpg 298 512 0 69 184 247 193
+471 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0056.jpg 450 338 0 321 88 403 136 0 47 214 209 263 0 46 87 267 137 0 341 216 384 258
+89 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0095.jpg 512 384 0 184 74 356 348
+297 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0078.jpg 361 512 0 296 209 309 327
+331 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0112.jpg 361 512 0 57 49 175 63
+524 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0110.jpg 512 384 0 229 85 279 235
+464 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0049.tiff 512 345 0 222 53 234 298
+591 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0187.jpg 384 512 0 136 315 254 331
+272 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0053.jpg 361 512 0 37 105 51 222
+806 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0083.jpg 384 512 0 118 318 310 371
+386 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0167.jpg 361 512 0 313 197 327 314
+14 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0017.jpg 512 384 0 278 108 362 291
+515 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0101.jpg 512 384 0 46 112 112 225
+568 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0158.jpg 400 241 0 170 131 252 180 0 65 66 364 110
+842 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0021.tiff 350 512 0 211 390 291 421
+814 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0091.jpg 384 512 0 105 325 248 398
+119 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0040.jpg 512 288 0 124 97 240 163 0 327 116 369 158
+440 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0024.jpg 384 512 0 253 151 293 189
+825 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0004.tiff 512 383 0 236 305 289 333
+892 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0071.tiff 395 512 0 97 476 148 492
+651 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0250.tiff 358 512 0 32 476 191 497 0 2 224 14 281 0 134 85 149 100
+848 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0027.tiff 332 512 0 242 98 313 134
+86 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0092.jpg 512 384 0 175 72 356 299
+533 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0120.jpg 512 384 0 276 314 433 364
+170 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0041.jpg 512 288 0 251 123 292 164
+735 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0002.jpg 512 434 0 95 153 376 256
+156 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0027.jpg 288 512 0 21 277 97 352
+585 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0180.jpg 384 512 0 119 359 251 374
+195 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0066.jpg 512 288 0 172 128 264 218
+756 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0024.jpg 384 512 0 91 237 239 287
+493 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0078.jpg 384 512 0 72 12 200 29 0 245 11 325 27
+448 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0032.jpg 512 384 0 182 99 215 135
+83 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0089.jpg 512 384 0 85 109 320 208
+711 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0310.tiff 358 512 0 5 434 29 457
+639 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0237.jpg 512 384 0 119 133 151 355 0 179 153 209 350 0 240 201 281 339 0 235 46 278 185 0 316 62 340 138 0 320 181 346 337
+387 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0168.jpg 361 512 0 30 289 43 407
+146 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0015.jpg 512 288 0 128 130 170 172
+300 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0081.jpg 361 512 0 305 233 319 351
+685 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0284.tiff 358 512 0 221 303 333 326 0 245 370 335 393
+810 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0087.jpg 384 512 0 95 233 216 317
+465 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0050.jpg 384 512 0 241 36 331 127
+431 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0013.tif 362 512 0 290 118 329 157
+521 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0107.jpg 512 384 0 454 135 505 226
+867 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0046.tiff 377 512 0 172 436 229 454
+131 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0055.jpg 512 288 0 171 86 203 118 0 253 81 364 129
+811 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0088.jpg 384 512 0 106 178 244 274
+773 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0048.jpg 512 384 0 264 127 343 275
+368 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0149.jpg 361 512 0 86 122 203 135
+194 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0065.jpg 512 288 0 170 109 260 200
+686 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0285.tiff 358 512 0 203 275 288 300 0 198 348 296 386
+137 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0006.jpg 512 288 0 147 154 226 230
+380 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0161.jpg 361 512 0 320 312 333 430
+337 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0118.jpg 361 512 0 132 388 249 401
+535 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0122.jpg 384 512 0 307 37 335 65
+413 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0194.jpg 361 512 0 323 328 336 446
+243 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0024.jpg 361 512 0 202 203 320 217
+98 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0014.jpg 512 288 0 325 108 365 148 0 131 80 241 146
+60 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0064.jpg 512 384 0 107 73 334 247
+759 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0029.jpg 512 384 0 232 92 317 294
+866 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0045.tiff 312 512 0 212 459 291 505
+113 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0034.jpg 512 288 0 134 80 169 111 0 222 75 335 122
+110 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0031.jpg 512 288 0 163 123 198 157 0 269 122 364 178
+237 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0018.jpg 361 512 0 153 325 271 338
+9 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0010.jpg 384 512 0 102 201 268 457
+884 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0063.tiff 341 512 0 31 435 88 476 0 120 472 185 484
+477 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0062.jpg 341 512 0 67 330 292 427
+743 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0010.jpg 512 384 0 230 221 300 319 0 155 88 207 142
+149 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0019.jpg 288 512 0 54 180 167 277
+315 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0096.jpg 361 512 0 40 132 54 249
+304 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0085.jpg 361 512 0 286 278 300 395
+676 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0275.tiff 358 512 0 186 307 312 344 0 194 360 336 415
+565 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0154.jpg 512 329 0 202 264 412 275
+190 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0061.jpg 512 288 0 273 122 358 208
+575 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0170.jpg 512 384 0 34 234 277 271 0 34 169 339 206
+700 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0299.tiff 512 386 0 36 160 65 270
+547 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0134.jpg 512 384 0 67 250 202 295
+710 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0309.tiff 358 512 0 176 99 217 130 0 176 135 217 168 0 176 172 217 203 0 176 208 216 240 0 175 245 216 276 0 175 281 216 312 0 175 318 216 349
+102 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0020.jpg 512 288 0 353 118 389 151 0 189 104 286 160
+772 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0047.jpg 512 384 0 310 136 399 275
+540 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0127.jpg 512 384 0 161 126 174 296
+124 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0045.jpg 512 288 0 175 90 260 138 0 319 103 349 134
+339 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0120.jpg 361 512 0 145 390 262 404
+185 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0056.jpg 512 288 0 155 85 258 194
+97 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0007.jpg 512 384 0 187 174 336 232 0 72 179 132 224
+481 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0066.jpg 512 348 0 337 270 481 295 0 142 29 282 78 0 146 105 285 157 0 83 232 322 254
+495 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0080.jpg 512 384 0 445 136 491 321
+704 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0303.tiff 361 512 0 9 474 32 498
+864 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0043.tiff 384 512 0 176 434 233 452
+857 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0036.tiff 328 512 0 143 427 211 475
+828 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0007.tiff 338 512 0 206 453 256 464 0 52 424 128 444
+520 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0106.jpg 512 384 0 434 127 487 216
+453 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0038.jpg 341 512 0 65 212 304 224
+343 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0124.jpg 361 512 0 189 87 307 101
+230 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0011.jpg 361 512 0 203 186 320 199
+802 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0079.jpg 384 512 0 50 300 253 399
+209 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0080.jpg 512 288 0 323 80 379 136
+632 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0229.jpg 384 512 0 236 34 329 59 0 320 339 352 446
+361 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0142.jpg 361 512 0 206 149 324 163
+815 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0092.jpg 384 512 0 96 313 279 383
+614 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0211.jpg 512 385 0 421 152 475 232
+81 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0087.jpg 384 512 0 55 346 270 482
+564 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0153.jpg 384 512 0 26 120 61 175 0 26 274 63 332
+899 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0078.tiff 317 512 0 126 459 189 479
+374 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0155.jpg 361 512 0 179 351 192 469
+334 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0115.jpg 361 512 0 62 48 179 62
+446 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0030.jpg 211 512 0 73 207 81 366
+597 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0193.jpg 512 437 0 17 39 64 165 0 14 265 60 397
+232 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0013.jpg 353 512 0 83 290 198 303
+487 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0072.jpg 384 512 0 54 403 80 430
+778 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0053.jpg 384 512 0 10 281 314 388
+357 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0138.jpg 361 512 0 211 171 329 184
+191 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0062.jpg 512 288 0 279 104 360 187
+301 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0082.jpg 361 512 0 34 162 48 280
+362 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0143.jpg 361 512 0 74 49 191 63
+739 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0006.jpg 512 286 0 49 89 402 204
+289 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0070.jpg 361 512 0 30 80 44 197
+393 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0174.jpg 361 512 0 46 363 60 481
+406 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0187.jpg 361 512 0 45 217 59 335
+217 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0088.jpg 512 288 0 51 239 87 275
+602 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0198.jpg 384 512 0 67 49 161 82 0 260 365 306 413 0 86 360 131 406 0 173 361 219 408
+532 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0119.jpg 512 384 0 177 46 244 60 0 171 323 246 341 0 124 230 143 304
+909 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0089.tiff 325 512 0 40 31 106 54
+150 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0021.jpg 288 512 0 58 168 212 313
+350 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0131.jpg 361 512 0 44 50 162 63
+388 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0169.jpg 361 512 0 156 34 169 152
+314 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0095.jpg 361 512 0 275 307 289 424
+673 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0272.tiff 358 512 0 203 270 290 297 0 198 331 298 370
+542 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0129.jpg 384 512 0 35 447 59 471
+796 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0072.jpg 384 512 0 73 265 290 387
+248 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0029.jpg 360 512 0 97 143 214 156
+296 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0077.jpg 361 512 0 307 235 320 353
+451 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0036.jpg 348 512 0 44 240 301 253 0 274 400 324 451
+556 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0143.jpg 512 372 0 172 317 374 332
+649 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0248.tiff 358 512 0 241 359 314 399
+193 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0064.jpg 512 288 0 178 102 267 191
+66 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0071.jpg 384 512 0 53 273 310 379
+530 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0117.jpg 512 384 0 93 186 265 273
+783 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0059.jpg 384 512 0 74 255 317 348
+136 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0005.jpg 512 288 0 280 92 349 161
+838 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0017.tiff 294 512 0 49 425 116 454
+383 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0164.jpg 361 512 0 50 291 64 409
+428 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0010.tif 362 512 0 295 25 336 34
+43 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0047.jpg 512 384 0 136 89 371 323
+517 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0103.jpg 512 384 0 39 113 90 220
+56 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0060.jpg 384 512 0 94 239 287 380
+819 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0097.jpg 512 384 0 275 158 373 292
+94 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0100.jpg 512 384 0 159 126 247 291
+775 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0050.jpg 512 384 0 289 129 373 274
+219 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0090.jpg 512 288 0 373 55 416 98
+580 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0175.jpg 340 512 0 42 432 189 450 0 55 131 297 245 0 42 377 189 395 0 42 460 190 478 0 41 405 190 423 0 42 351 140 368
+801 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0078.jpg 384 512 0 89 333 246 402
+233 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0014.jpg 361 512 0 194 79 311 93
+748 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0015.jpg 384 512 0 168 140 276 198
+898 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0077.tiff 395 512 0 185 393 255 444
+129 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0052.jpg 512 288 0 242 91 340 132 0 166 91 204 121
+634 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0231.jpg 512 384 0 33 182 198 213
+709 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0308.tiff 358 512 0 279 73 343 104
+902 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0081.tiff 309 512 0 61 372 123 396
+179 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0050.jpg 512 288 0 372 189 400 217
+548 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0135.jpg 512 384 0 404 154 457 232
+125 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0047.jpg 512 288 0 314 107 356 140 0 156 96 276 147
+915 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0095.tiff 318 512 0 129 428 201 462
+376 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0157.jpg 361 512 0 286 57 300 175
+555 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0142.jpg 378 512 0 230 103 364 128 0 231 483 373 510
+17 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0020.jpg 512 384 0 102 53 359 248
+646 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0245.jpg 512 288 0 62 99 216 122 0 271 42 326 96
+754 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0022.jpg 512 384 0 296 156 421 331
+470 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0055.jpg 512 369 0 89 272 197 296 0 346 263 459 297 0 59 219 285 253 0 245 271 337 294 0 63 310 274 344 0 303 309 442 342
+397 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0178.jpg 361 512 0 109 113 123 231
+178 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0049.jpg 512 288 0 363 161 396 193
+184 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0055.jpg 512 288 0 81 93 163 169
+693 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0292.tiff 358 512 0 220 283 327 306 0 242 347 329 369
+656 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0255.tiff 358 512 0 18 474 37 494 0 201 83 276 99
+505 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0091.jpg 512 384 0 36 154 64 249
+434 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0018.tif 375 512 0 50 310 350 377
+779 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0054.jpg 384 512 0 29 218 339 342
+4 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0005.jpg 384 512 0 93 191 317 365
+152 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0023.jpg 512 288 0 429 203 478 251
+148 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0018.jpg 288 512 0 94 215 154 267
+878 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0057.tiff 378 512 0 190 448 247 484
+145 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0014.jpg 288 512 0 55 111 235 291
+853 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0032.tiff 387 512 0 84 44 102 103
+809 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0086.jpg 384 512 0 113 343 215 383
+688 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0287.tiff 358 512 0 261 46 332 69
+306 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0087.jpg 361 512 0 304 199 317 316
+845 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0024.tiff 316 512 0 272 377 315 466
+737 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0004.jpg 384 512 0 100 365 227 413
+496 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0081.jpeg 512 384 0 332 129 361 302 0 93 285 212 315
+311 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0092.jpg 361 512 0 27 111 41 228
+635 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0232.tif 362 512 0 234 63 275 81
+118 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0039.jpg 512 288 0 168 140 283 206 0 371 155 415 198
+180 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0051.jpg 512 288 0 360 164 391 195
+827 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0006.tiff 373 512 0 99 101 117 153
+317 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0098.jpg 361 512 0 37 142 51 259
+33 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0037.jpg 512 384 0 104 90 357 193
+429 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0011.tif 512 320 0 27 124 487 310
+430 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0012.tif 398 512 0 77 250 333 303
+459 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0044.jpg 512 384 0 14 261 51 296
+468 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0053.jpg 512 384 0 314 131 385 201
+16 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0019.jpg 384 512 0 84 190 307 288
+893 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0072.tiff 395 512 0 97 474 147 490
+760 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0030.jpg 512 384 0 313 86 380 294
+389 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0170.jpg 361 512 0 292 179 306 296
+91 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0097.jpg 384 512 0 86 216 193 452
+750 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0017.jpg 512 384 0 77 84 371 304
+312 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0093.jpg 361 512 0 265 238 279 355
+107 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0028.jpg 512 288 0 144 127 269 179 0 328 137 362 171
+282 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0063.jpg 361 512 0 295 248 309 366
+77 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0082.jpg 384 512 0 54 206 245 448
+652 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0251.tiff 512 358 0 181 326 264 345 0 47 326 116 345 0 106 24 239 40 0 339 24 473 40 0 124 223 224 244 0 357 224 457 244
+599 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0195.jpg 512 342 0 61 47 96 142 0 33 196 77 311
+320 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0101.jpg 361 512 0 208 335 325 348
+569 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0161.jpg 384 512 0 106 290 290 312 0 170 197 221 248 0 159 343 243 431
+777 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0052.jpg 384 512 0 58 237 300 343
+318 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0099.jpg 361 512 0 287 312 301 429
+588 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0184.jpg 512 269 0 92 8 127 90 0 80 182 118 263
+70 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0075.jpg 512 384 0 135 44 294 245
+244 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0025.jpg 361 512 0 142 425 259 439
+235 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0016.jpg 361 512 0 157 394 274 408
+613 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0210.jpg 512 385 0 419 145 471 225
+506 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0092.jpg 512 384 0 57 161 86 256
+742 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0009.jpg 512 384 0 219 145 284 242
+873 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0052.tiff 391 512 0 25 263 75 284
+894 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0073.tiff 356 512 0 67 443 129 470
+523 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0109.jpg 512 384 0 185 161 212 238
+213 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0084.jpg 512 288 0 364 107 429 171
+861 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0040.tiff 315 512 0 70 404 142 432
+776 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0051.jpg 384 512 0 108 264 324 348
+484 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0069.jpg 512 384 0 48 143 83 239 0 376 253 476 285
+462 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0047.jpg 384 512 0 248 393 330 472
+333 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0114.jpg 361 512 0 95 49 213 62
+140 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0009.jpg 288 512 0 158 230 232 303
+671 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0270.tiff 209 512 0 51 440 170 468
+534 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0121.jpg 384 512 0 240 71 256 137 0 272 147 336 157
+798 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0075.jpg 384 512 0 67 361 275 422
+718 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0317.jpg 384 512 0 32 86 60 213 0 99 254 120 276 0 32 359 60 486
+504 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0090.jpg 512 384 0 45 180 75 273
+121 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0042.jpg 288 512 0 138 149 197 249 0 151 323 189 362
+820 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0098.jpg 512 384 0 204 57 279 253
+622 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0219.jpg 512 384 0 240 21 283 33 0 16 136 48 164
+379 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0160.jpg 361 512 0 166 113 180 230
+457 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0042.tiff 512 374 0 233 56 240 184 0 380 190 402 212
+433 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0016.tif 362 512 0 241 26 327 111
+187 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0058.jpg 512 288 0 202 119 285 202
+134 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0003.jpg 512 288 0 339 152 405 218
+381 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0162.jpg 361 512 0 167 346 180 464
+664 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0263.tiff 356 512 0 22 34 203 83
+587 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0183.jpg 384 512 0 245 234 334 260 0 255 383 337 466
+911 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0091.tiff 385 512 0 177 362 249 408
+784 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0060.jpg 384 512 0 83 160 343 256
+177 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0048.jpg 512 288 0 342 176 380 212
+164 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0035.jpg 512 288 0 170 196 241 263
+697 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0296.tiff 361 512 0 256 86 297 127
+359 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0140.jpg 361 512 0 156 177 273 191
+889 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0068.tiff 346 512 0 35 438 93 480
+839 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0018.tiff 388 512 0 52 93 77 154
+903 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0082.tiff 335 512 0 165 446 224 467
+279 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0060.jpg 361 512 0 305 92 319 210
+161 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0032.jpg 288 512 0 199 89 259 152
+638 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0236.jpg 512 341 0 362 177 382 321 0 204 76 228 188 0 201 208 226 310 0 325 95 346 320 0 442 139 459 223
+526 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0112.jpeg 512 288 0 98 29 131 98 0 74 180 112 259
+47 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0051.jpg 512 384 0 51 103 281 221
+695 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0294.tiff 358 512 0 35 124 52 184 0 36 376 53 435
+427 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0009.tif 396 512 0 153 28 323 64
+545 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0132.jpg 512 384 0 183 113 265 255 0 291 60 437 315
+458 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0043.jpg 384 512 0 272 55 352 139
+507 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0093.jpg 512 384 0 459 136 508 221
+422 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0004.tif 372 512 0 275 14 296 35
+573 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0166.jpg 512 384 0 72 230 429 296
+205 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0076.jpg 512 288 0 192 121 232 164
+275 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0056.jpg 361 512 0 53 58 66 176
+8 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0009.jpg 512 384 0 139 93 331 250
+358 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0139.jpg 361 512 0 207 294 325 307
+490 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0075.jpg 512 229 0 55 110 85 203
+454 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0039.tif 351 512 0 59 255 292 267
+69 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0074.jpg 512 384 0 79 118 334 244
+404 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0185.jpg 361 512 0 263 355 277 473
+880 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0059.tiff 394 512 0 94 472 145 487
+414 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0195.jpg 361 512 0 34 295 48 412
+494 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0079.jpg 384 512 0 255 58 363 76
+165 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0036.jpg 512 288 0 403 216 450 265
+543 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0130.jpg 512 384 0 221 170 356 247 0 171 278 405 331
+717 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0316.jpg 384 512 0 218 311 310 338 0 222 376 330 416
+249 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0030.jpg 361 512 0 160 57 278 70
+12 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0015.jpg 512 384 0 258 117 338 298
+22 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0026.jpg 384 512 0 86 146 248 367
+732 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0332.jpg 288 512 0 44 201 255 218
+220 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0001.jpg 361 512 0 197 281 315 294
+730 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0330.jpg 512 288 0 314 79 416 118
+298 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0079.jpg 361 512 0 305 153 318 270
+396 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0177.jpg 361 512 0 35 298 49 415
+486 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0071.jpg 512 384 0 40 243 444 280 0 256 137 465 182
+257 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0038.jpg 365 512 0 119 180 238 193
+642 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0241.tif 512 388 0 69 23 115 38 0 56 21 66 33
+390 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0171.jpg 359 512 0 26 256 40 373
+727 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0326.jpg 512 288 0 87 127 140 184
+37 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0041.jpg 384 512 0 83 187 237 396
+221 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0002.jpg 361 512 0 81 51 199 65
+650 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0249.tiff 358 512 0 0 228 9 281 0 130 85 146 100 0 26 477 186 498
+752 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0020.jpg 384 512 0 46 199 277 347
+753 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0021.jpg 512 384 0 228 78 350 251
+791 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0067.jpg 384 512 0 102 298 303 403
+255 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0036.jpg 361 512 0 155 57 272 71
+466 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0051.jpg 512 384 0 48 101 110 160
+208 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0079.jpg 512 288 0 368 66 427 124
+335 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0116.jpg 361 512 0 92 74 209 87
+906 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0086.tiff 402 512 0 40 369 57 419
+59 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0063.jpg 512 384 0 129 119 372 312
+812 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0089.jpg 384 512 0 151 244 266 323
+288 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0069.jpg 361 512 0 39 192 52 310
+196 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0067.jpg 512 288 0 182 129 262 210
+316 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0097.jpg 361 512 0 305 247 318 364
+502 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0088.jpg 512 384 0 45 177 69 264
+741 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0008.jpg 511 346 0 86 130 435 265
+850 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0029.tiff 331 512 0 205 83 279 123
+183 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0054.jpg 512 288 0 426 203 465 242
+592 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0188.jpg 384 512 0 273 69 326 111
+95 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0002.jpg 290 512 0 139 328 189 433 0 142 255 172 284
+71 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0076.jpg 512 384 0 99 84 349 267
+629 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0226.jpg 512 384 0 21 248 60 284
+130 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Excise_stamp_0054.jpg 512 288 0 264 81 377 131 0 172 82 217 117 0 317 185 404 214
+28 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0032.jpg 512 384 0 50 107 277 198
+529 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0115.jpg 512 384 0 342 109 433 157
+781 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0056.jpg 384 512 0 43 221 281 309
+284 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0065.jpg 361 512 0 41 201 55 318
+804 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0081.jpg 384 512 0 65 185 325 291
+61 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0065.jpg 512 384 0 75 72 344 280
+338 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0119.jpg 361 512 0 208 134 325 148
+876 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0055.tiff 379 512 0 29 437 50 487
+256 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0037.jpg 361 512 0 109 192 226 206
+480 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0065.jpg 512 289 0 263 95 423 211 0 64 131 178 154 0 65 93 179 116 0 64 55 169 78 0 445 100 465 198 0 94 173 145 226
+425 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0007.tif 512 228 0 8 184 41 218
+670 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0269.tiff 358 512 0 119 30 277 46 0 119 270 277 285 0 5 489 24 508
+62 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/EAN13_09_0066.jpg 512 384 0 141 93 244 262
+800 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[P]ISBN_18_0077.jpg 384 512 0 62 171 290 219 0 109 328 277 406
+278 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0059.jpg 361 512 0 44 267 58 385
+369 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/RoyalMail_0150.jpg 361 512 0 222 308 340 321
+859 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0038.tiff 350 512 0 250 409 323 461 0 42 460 134 476
+438 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/Special_0022.tif 359 512 0 167 207 224 232 0 34 330 130 426
+169 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0040.jpg 288 512 0 47 316 103 371
+144 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0013.jpg 288 512 0 44 215 124 294
+871 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0050.tiff 354 512 0 62 441 124 470
+204 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/QR-photo_26_0075.jpg 512 288 0 173 129 213 176
+854 /home/liusheng/data/NFS120/barcode/ZVZ-real-512/Image/[S]ISBN_02_0033.tiff 338 512 0 47 429 124 456

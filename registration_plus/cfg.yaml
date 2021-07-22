@@ -1,0 +1,50 @@
+# dataset settings
+#train_root: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_sameWay_del_CH11_528_rot'
+#train_root: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_del_CH11_528'
+#train_root: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_sameWay_del_CH11_528'
+train_root: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_sameWay_del_CH11_643'
+
+input_shape: [3, 192, 192]
+# backbone options: resnetface20, se_resnet50, efficientnet-b?
+backbone: 'resnetface20'
+# used in train1
+method1: 'fc'
+loss1: 'CrossEntropy'
+save_path: 'checkpoints_updated'
+# used in train2
+method2: 'svam'
+loss2: 'xentrophy'
+mps: False
+mhe: False
+# train settings
+train_batch_size: 64
+weight_decay: 0.0005
+lr: 0.001
+lr_milestones: [100, 130]
+warmup_epochs: 10
+epochs: 160
+# print settings
+save_freq: 50
+print_freq: 50
+
+### eval
+#ref_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125/ref10'
+#ref_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125_sameWay/ref10'
+ref_dir: '/home/liusheng/data/NFS120/cow/vedio/15组2021.5/DVR_Examiner_Export_2021-05-18 142552_Job_0002/2021-05-12/Native Video Files (MP4)/ref10_name'
+#ref_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125_sameWay_rot/ref10'
+#ref_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/correction/test_xz_mask125_sameWay_rot/ref10'
+
+#test_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125/cow_body_50_1023_cownum'
+test_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125_sameWay/cow_body_50_1023_cownum_xz_mask125_sameWay'
+#test_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/test_xz_mask125_sameWay_rot/cow_body_50_1023_cownum_xz_mask125_sameWay_rot'
+#test_dir: '/home/liusheng/data/images4code/chenhong_data/zzb_cow/cow_body/correction/test_xz_mask125_sameWay_rot/cow_body_50_1023_cownum_xz_mask125_sameWay_rot'
+
+# final result checkpoints
+result_file: '/home/liusheng/data/NFS120/cow/zzb_cow/sum_updated_20210517.csv'
+
+# other
+device: 'cpu'
+phase: 'train'
+# model path
+resume: False
+checkpoint_subtitle: 'None'

@@ -1,0 +1,43 @@
+# used in train.py
+# dataset settings
+train_root: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body_cam22/train_test/train'
+val_root: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body_cam22/train_test/train'
+# save current classes
+class_label: 'direction.txt'
+# input settings
+input_shape: [3, 128, 128]
+# train settings
+train_batch_size: 16
+weight_decay: 0.0005
+lr: 0.01
+lr_milestones: [20, 30]
+epochs: 40
+# network settings
+method: 'svam'
+mps: False
+mhe: False
+loss: 'xentrophy'
+# save model settings
+save_freq: 10
+save_path: 'checkpoints/body_10_lre_2'
+# cmd print info settings
+print_freq: 100
+
+
+# used in eval.py
+#  model path
+model_path: '/home/liusheng/deepLearningProjects/projects/bodai_classify/checkpoints/body_10_lre_2/10/model.pth'
+# output
+bodai_mistake_csv: 'bodai_mistake.csv'
+bodai_res_csv: 'result.csv'
+
+# used in rotate.py
+threshold: 0.75
+rotate_url: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_sameWay_del_CH11_528_rot'
+#rotate_url: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_sameWay_del_CH11'
+#rotate_url: '/home/liusheng/data/NFS120/cow/zzb_cow/test_cow_body/test_xz_mask125_sameWay_rot/ref10'
+#rotate_url: '/home/liusheng/data/NFS120/cow/zzb_cow/test_cow_body/test_xz_mask125_sameWay_rot/cow_body_50_1023_cownum_xz_mask125_sameWay'
+dst_url: '/home/liusheng/data/NFS120/cow/zzb_cow/cow_body/cow_body_without_bodai_xz_mask125_sameWay_del_CH11_528_rot'
+
+
+
