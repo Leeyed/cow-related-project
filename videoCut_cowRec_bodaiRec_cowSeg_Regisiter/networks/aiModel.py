@@ -4,7 +4,7 @@ AI model infer
 import cv2
 import tensorflow as tf
 from model import yolov3
-from modules.nms_utils import gpu_nms
+from modules_yolo.nms_utils import gpu_nms
 import torch.nn as nn
 import numpy as np
 import torch

@@ -7,8 +7,8 @@ from __future__ import division, print_function
 import tensorflow as tf
 slim = tf.contrib.slim
 
-from modules.layer_utils import conv2d, darknet53_body, yolo_block, upsample_layer
-from modules.focal_loss import focal_loss
+from modules_yolo.layer_utils import conv2d, darknet53_body, yolo_block, upsample_layer
+from modules_yolo.focal_loss import focal_loss
 
 
 class yolov3(object):
