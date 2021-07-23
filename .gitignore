@@ -130,3 +130,11 @@ dmypy.json
 
 # IDEA
 .idea
+
+# res folder
+/res
+
+# videos
+/Cow_track_demo
+*.avi
+*.mp4
