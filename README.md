@@ -1,5 +1,5 @@
 # cow-related-project
-this project aims to track all the cow in the cow farm 7/11.
+this project aims to track all the cow in the cow farm 7/24.
 
 YOLOv3_tensorflow_from_zzb：
 牛体、脖带检测训练脚本
